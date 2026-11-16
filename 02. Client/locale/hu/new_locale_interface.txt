@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Erõ az állatok ellen
+TARGET_INFO_BONUS_BOSS	Erõ a Bossok ellen
+TARGET_INFO_BONUS_DESERT	Erõ a sivatagi szörnyek ellen
+TARGET_INFO_BONUS_DEVIL	Erõ az ördögök ellen
+TARGET_INFO_BONUS_FIRE	Erõ a tûz ellen
+TARGET_INFO_BONUS_HUMAN	Erõ a félemberek ellen
+TARGET_INFO_BONUS_ICE	Erõ a jég ellen
+TARGET_INFO_BONUS_INSECT	Erõ a rovarok ellen
+TARGET_INFO_BONUS_MILGYO	Erõ a miszticizmus ellen
+TARGET_INFO_BONUS_MONSTER	Erõ a szörnyek ellen
+TARGET_INFO_BONUS_ORC	Erõ az orkok ellen
+TARGET_INFO_BONUS_TREE	Erõ a fák ellen
+TARGET_INFO_BONUS_UNDEAD	Erõ a halhatatlanok ellen
+TRACK_DAMAGE_ACCURACY	Pontosság és a célpont kitérése
+TRACK_DAMAGE_AFTER	Utána
+TRACK_DAMAGE_ATTACK	Támadóérték
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Támadó sebzésszorzója
+TRACK_DAMAGE_ATTACK_PERCENT	Összevont támadási százalékok
+TRACK_DAMAGE_BEFORE	Elõtte
+TRACK_DAMAGE_BONUS_CZ	Erõ a Zodiákus szörnyek ellen
+TRACK_DAMAGE_BONUS_PVP	Erõ a játékosok ellen
+TRACK_DAMAGE_CHANGE	Változás
+TRACK_DAMAGE_CRITICAL	Kritikus találat
+TRACK_DAMAGE_DEFENSE	Célpont védelme
+TRACK_DAMAGE_DISTANCE	Távolságmódosító
+TRACK_DAMAGE_ELEMENT	Összevont elemi bónuszok
+TRACK_DAMAGE_HELP_ACCURACY	Az ütésed talál, de ennél a lépésnél veszíthet az erejébõl.
+TRACK_DAMAGE_HELP_ATTACK	Az ütéshez használt kezdeti támadóérték.
+TRACK_DAMAGE_HELP_CAP	Az adott célpontra vagy kazamatára engedélyezett maximális sebzésre korlátozza az ütést.
+TRACK_DAMAGE_HELP_CRITICAL	Kritikus találat extra sebzése, a számítás ezen lépésében alkalmazva.
+TRACK_DAMAGE_HELP_DEFENSE	A célpont védelmét alkalmazza az aktuális támadóértékre.
+TRACK_DAMAGE_HELP_METIN	Az összesített Metin-bónuszodat alkalmazza az aktuális támadásra.
+TRACK_DAMAGE_HELP_MINIMUM	Ha a kiszámított sebzés 3 alatt van, a szerver 1 és 5 közötti sebzést sorsol.
+TRACK_DAMAGE_HELP_PERCENT	Százalékos bónuszt alkalmaz az aktuális értékre, a vonatkozó ellenállás figyelembevételével.
+TRACK_DAMAGE_HELP_REFINE	A fegyver fejlesztésébõl kapott támadóérték (+0 és +9 között).
+TRACK_DAMAGE_HELP_RESIST	A célpont ezen támadástípussal szembeni ellenállása szerint csökkenti a sebzést.
+TRACK_DAMAGE_HELP_RULE	Ez a bónusz vagy harci szabály módosítja az aktuális értéket.
+TRACK_DAMAGE_HELP_WEAPON	Minden ütésnél a fegyver sebzéstartományából véletlenszerûen választott sebzés.
+TRACK_DAMAGE_INPUT	Sebzés a találat feldolgozása elõtt
+TRACK_DAMAGE_MARRIAGE	Házassági harci bónusz
+TRACK_DAMAGE_METIN_BONUS	Összes Metin elleni bónusz
+TRACK_DAMAGE_METIN_CAP	Metin sebzéskorlátja
+TRACK_DAMAGE_MINIMUM	Minimális sebzés szabálya
+TRACK_DAMAGE_NORMAL_HIT	Átlagos sebzés
+TRACK_DAMAGE_PARTY	Csoport támadásbónusza
+TRACK_DAMAGE_PAUSE	Rögzítés
+TRACK_DAMAGE_PAUSED	A nézet rögzítve. Folytasd az új találatok rögzítéséhez.
+TRACK_DAMAGE_PENETRATE_HIT	Áthatoló találat
+TRACK_DAMAGE_REFINE	Fegyverfejlesztés
+TRACK_DAMAGE_RESUME	Folytatás
+TRACK_DAMAGE_RULES	További harci módosító
+TRACK_DAMAGE_SERVER_RATE	Szerver sebzési aránya
+TRACK_DAMAGE_SKILL_BONUS	Képességsebzés-bónusz
+TRACK_DAMAGE_SKILL_FORMULA	Képességképlet eredménye
+TRACK_DAMAGE_STEP	Számítási sorrend
+TRACK_DAMAGE_TOTAL	Összes sebzés: %s
+TRACK_DAMAGE_WAITING	Támadd meg ezt a célpontot egy valós találat megtekintéséhez.
+TRACK_DAMAGE_WEAPON	Kisorsolt fegyversebzés
+TRACK_DAMAGE_WEAPON_RESIST	Fegyverellenállás és áttörés

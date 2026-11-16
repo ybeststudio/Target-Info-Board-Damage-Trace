@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Putere împotriva animalelor
+TARGET_INFO_BONUS_BOSS	Putere împotriva Boºilor
+TARGET_INFO_BONUS_DESERT	Putere împotriva monºtrilor din deºert
+TARGET_INFO_BONUS_DEVIL	Putere împotriva diavolilor
+TARGET_INFO_BONUS_FIRE	Putere împotriva focului
+TARGET_INFO_BONUS_HUMAN	Putere împotriva semi-oamenilor
+TARGET_INFO_BONUS_ICE	Putere împotriva gheþii
+TARGET_INFO_BONUS_INSECT	Putere împotriva insectelor
+TARGET_INFO_BONUS_MILGYO	Putere împotriva misticilor
+TARGET_INFO_BONUS_MONSTER	Putere împotriva monºtrilor
+TARGET_INFO_BONUS_ORC	Putere împotriva orcilor
+TARGET_INFO_BONUS_TREE	Putere împotriva copacilor
+TARGET_INFO_BONUS_UNDEAD	Putere împotriva nemuritorilor
+TRACK_DAMAGE_ACCURACY	Precizie si eschiva tintei
+TRACK_DAMAGE_AFTER	Dupã
+TRACK_DAMAGE_ATTACK	Valoare de atac
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Multiplicatorul daunelor atacatorului
+TRACK_DAMAGE_ATTACK_PERCENT	Procente de atac combinate
+TRACK_DAMAGE_BEFORE	Înainte
+TRACK_DAMAGE_BONUS_CZ	Putere împotriva monºtrilor Zodiac
+TRACK_DAMAGE_BONUS_PVP	Putere împotriva jucãtorilor
+TRACK_DAMAGE_CHANGE	Variatie
+TRACK_DAMAGE_CRITICAL	Loviturã criticã
+TRACK_DAMAGE_DEFENSE	Apãrarea tintei
+TRACK_DAMAGE_DISTANCE	Ajustare de distantã
+TRACK_DAMAGE_ELEMENT	Bonusuri elementare combinate
+TRACK_DAMAGE_HELP_ACCURACY	Lovitura ta atinge tinta, dar poate pierde din putere în aceastã etapã.
+TRACK_DAMAGE_HELP_ATTACK	Valoarea initialã de atac folositã pentru aceastã loviturã.
+TRACK_DAMAGE_HELP_CAP	Limiteazã lovitura la daunele maxime permise pentru aceastã tintã sau temnitã.
+TRACK_DAMAGE_HELP_CRITICAL	Daune suplimentare ale unei lovituri critice, aplicate în aceastã etapã.
+TRACK_DAMAGE_HELP_DEFENSE	Aplicã apãrarea tintei valorii de atac din aceastã etapã.
+TRACK_DAMAGE_HELP_METIN	Aplicã bonusul cumulat contra pietrelor Metin atacului curent.
+TRACK_DAMAGE_HELP_MINIMUM	Dacã daunele calculate sunt sub 3, serverul alege aleatoriu daune între 1 si 5.
+TRACK_DAMAGE_HELP_PERCENT	Aplicã un bonus procentual valorii curente, tinând cont de rezistenta relevantã.
+TRACK_DAMAGE_HELP_REFINE	Valoare de atac obtinutã prin îmbunãtãtirea armei (de la +0 la +9).
+TRACK_DAMAGE_HELP_RESIST	Reduce daunele dupã rezistenta tintei la acest tip de atac.
+TRACK_DAMAGE_HELP_RULE	Acest bonus sau regulã de luptã modificã valoarea curentã.
+TRACK_DAMAGE_HELP_WEAPON	Daune alese aleatoriu din intervalul armei la fiecare loviturã.
+TRACK_DAMAGE_INPUT	Daune înaintea rezolvãrii loviturii
+TRACK_DAMAGE_MARRIAGE	Bonus de luptã al cãsãtoriei
+TRACK_DAMAGE_METIN_BONUS	Bonus total împotriva pietrelor Metin
+TRACK_DAMAGE_METIN_CAP	Limita daunelor pietrei Metin
+TRACK_DAMAGE_MINIMUM	Regula daunelor minime
+TRACK_DAMAGE_NORMAL_HIT	Daune medii
+TRACK_DAMAGE_PARTY	Bonus de atac al grupului
+TRACK_DAMAGE_PAUSE	Fixeazã
+TRACK_DAMAGE_PAUSED	Afisare fixatã. Reia pentru a înregistra lovituri noi.
+TRACK_DAMAGE_PENETRATE_HIT	Loviturã pãtrunzãtoare
+TRACK_DAMAGE_REFINE	Îmbunãtãtirea armei
+TRACK_DAMAGE_RESUME	Reia
+TRACK_DAMAGE_RULES	Ajustare suplimentarã de luptã
+TRACK_DAMAGE_SERVER_RATE	Rata daunelor serverului
+TRACK_DAMAGE_SKILL_BONUS	Bonus de daune ale abilitãtii
+TRACK_DAMAGE_SKILL_FORMULA	Rezultatul formulei abilitãtii
+TRACK_DAMAGE_STEP	Ordinea calculului
+TRACK_DAMAGE_TOTAL	Daune totale: %s
+TRACK_DAMAGE_WAITING	Atacã aceastã tintã pentru a vedea o loviturã realã.
+TRACK_DAMAGE_WEAPON	Daunele alese pentru armã
+TRACK_DAMAGE_WEAPON_RESIST	Rezistentã la armã si pãtrundere

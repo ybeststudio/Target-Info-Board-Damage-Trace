@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Hayvanlara karþý güçlü
+TARGET_INFO_BONUS_BOSS	Patronlara karþý güçlü
+TARGET_INFO_BONUS_DESERT	Çöl canavarlarýna karþý güçlü
+TARGET_INFO_BONUS_DEVIL	Þeytanlara karþý güçlü
+TARGET_INFO_BONUS_FIRE	Ateþe karþý güçlü
+TARGET_INFO_BONUS_HUMAN	Yarý insanlara karþý güçlü
+TARGET_INFO_BONUS_ICE	Buza karþý güçlü
+TARGET_INFO_BONUS_INSECT	Böceklere karþý güçlü
+TARGET_INFO_BONUS_MILGYO	Mistiklere karþý güçlü
+TARGET_INFO_BONUS_MONSTER	Canavarlara karþý güçlü
+TARGET_INFO_BONUS_ORC	Orklara karþý güçlü
+TARGET_INFO_BONUS_TREE	Aðaçlara karþý güçlü
+TARGET_INFO_BONUS_UNDEAD	Ölümsüzlere karþý güçlü
+TRACK_DAMAGE_ACCURACY	Ýsabet ve hedefin kaçýnmasý
+TRACK_DAMAGE_AFTER	Sonra
+TRACK_DAMAGE_ATTACK	Saldýrý deðeri
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Saldýranýn hasar çarpaný
+TRACK_DAMAGE_ATTACK_PERCENT	Birleþik saldýrý yüzdeleri
+TRACK_DAMAGE_BEFORE	Önce
+TRACK_DAMAGE_BONUS_CZ	Zodyak canavarlarýna karþý güçlü
+TRACK_DAMAGE_BONUS_PVP	Oyunculara karþý güçlü
+TRACK_DAMAGE_CHANGE	Deðiþim
+TRACK_DAMAGE_CRITICAL	Kritik vuruþ
+TRACK_DAMAGE_DEFENSE	Hedef savunmasý
+TRACK_DAMAGE_DISTANCE	Mesafe ayarlamasý
+TRACK_DAMAGE_ELEMENT	Birleþik element bonuslarý
+TRACK_DAMAGE_HELP_ACCURACY	Vuruþun hedefe ulaþýr, ancak bu aþamada gücünün bir kýsmýný kaybedebilir.
+TRACK_DAMAGE_HELP_ATTACK	Bu vuruþ için kullanýlan baþlangýç saldýrý deðeri.
+TRACK_DAMAGE_HELP_CAP	Vuruþu bu hedef veya zindan için izin verilen en yüksek hasarla sýnýrlar.
+TRACK_DAMAGE_HELP_CRITICAL	Hesaplamanýn bu aþamasýnda uygulanan kritik vuruþ ek hasarý.
+TRACK_DAMAGE_HELP_DEFENSE	Bu aþamadaki saldýrý deðerine hedefin savunmasýný uygular.
+TRACK_DAMAGE_HELP_METIN	Toplam Metin bonusunu mevcut saldýrýya uygular.
+TRACK_DAMAGE_HELP_MINIMUM	Hesaplanan hasar 3'ten küçükse sunucu 1 ile 5 arasýnda hasar belirler.
+TRACK_DAMAGE_HELP_PERCENT	Ýlgili direnç hesaba katýldýktan sonra bu aþamadaki deðere yüzde bonusu uygular.
+TRACK_DAMAGE_HELP_REFINE	Silahýný geliþtirerek kazandýðýn saldýrý deðeri (+0'dan +9'a).
+TRACK_DAMAGE_HELP_RESIST	Hasarý hedefin bu saldýrý türüne direncine göre azaltýr.
+TRACK_DAMAGE_HELP_RULE	Bu bonus veya savaþ kuralý mevcut deðeri deðiþtirir.
+TRACK_DAMAGE_HELP_WEAPON	Her vuruþta silahýnýn hasar aralýðýndan rastgele seçilen hasardýr.
+TRACK_DAMAGE_INPUT	Vuruþ iþlenmeden önceki hasar
+TRACK_DAMAGE_MARRIAGE	Evlilik savaþ bonusu
+TRACK_DAMAGE_METIN_BONUS	Toplam Metin bonusu
+TRACK_DAMAGE_METIN_CAP	Metin hasar sýnýrý
+TRACK_DAMAGE_MINIMUM	Asgari hasar kuralý
+TRACK_DAMAGE_NORMAL_HIT	Ortalama zarar
+TRACK_DAMAGE_PARTY	Grup saldýrý bonusu
+TRACK_DAMAGE_PAUSE	Dondur
+TRACK_DAMAGE_PAUSED	Görüntü donduruldu. Yeni vuruþlarý kaydetmek için devam et.
+TRACK_DAMAGE_PENETRATE_HIT	Delici vuruþ
+TRACK_DAMAGE_REFINE	Silah geliþtirmesi
+TRACK_DAMAGE_RESUME	Devam et
+TRACK_DAMAGE_RULES	Ek savaþ ayarlamasý
+TRACK_DAMAGE_SERVER_RATE	Sunucu hasar oraný
+TRACK_DAMAGE_SKILL_BONUS	Beceri hasarý bonusu
+TRACK_DAMAGE_SKILL_FORMULA	Beceri formülü sonucu
+TRACK_DAMAGE_STEP	Hesaplama sýrasý
+TRACK_DAMAGE_TOTAL	Toplam Hasar: %s
+TRACK_DAMAGE_WAITING	Gerçek bir vuruþ görmek için bu hedefe saldýr.
+TRACK_DAMAGE_WEAPON	Silahýn rastgele hasarý
+TRACK_DAMAGE_WEAPON_RESIST	Silah direnci ve delme

@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Strong vs. Animals
+TARGET_INFO_BONUS_BOSS	Strong vs. Bosses
+TARGET_INFO_BONUS_DESERT	Strong vs. Desert Monsters
+TARGET_INFO_BONUS_DEVIL	Strong vs. Devils
+TARGET_INFO_BONUS_FIRE	Strong vs. Fire
+TARGET_INFO_BONUS_HUMAN	Strong vs. Half-Humans
+TARGET_INFO_BONUS_ICE	Strong vs. Ice
+TARGET_INFO_BONUS_INSECT	Strong vs. Insects
+TARGET_INFO_BONUS_MILGYO	Strong vs. Mystics
+TARGET_INFO_BONUS_MONSTER	Strong vs. Monsters
+TARGET_INFO_BONUS_ORC	Strong vs. Orcs
+TARGET_INFO_BONUS_TREE	Strong vs. Trees
+TARGET_INFO_BONUS_UNDEAD	Strong vs. Undead
+TRACK_DAMAGE_ACCURACY	Accuracy and target evasion
+TRACK_DAMAGE_AFTER	After
+TRACK_DAMAGE_ATTACK	Attack value
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Attacker damage multiplier
+TRACK_DAMAGE_ATTACK_PERCENT	Combined attack percentages
+TRACK_DAMAGE_BEFORE	Before
+TRACK_DAMAGE_BONUS_CZ	Strong vs. Zodiac monsters
+TRACK_DAMAGE_BONUS_PVP	Strong vs. Players
+TRACK_DAMAGE_CHANGE	Change
+TRACK_DAMAGE_CRITICAL	Critical hit
+TRACK_DAMAGE_DEFENSE	Target defense
+TRACK_DAMAGE_DISTANCE	Distance adjustment
+TRACK_DAMAGE_ELEMENT	Combined elemental bonuses
+TRACK_DAMAGE_HELP_ACCURACY	Your hit lands, but it can lose some power at this step.
+TRACK_DAMAGE_HELP_ATTACK	Starting attack value used for this hit.
+TRACK_DAMAGE_HELP_CAP	Limits this hit to the maximum damage allowed for this target or dungeon.
+TRACK_DAMAGE_HELP_CRITICAL	Extra damage from a critical hit, applied at this stage of the calculation.
+TRACK_DAMAGE_HELP_DEFENSE	Applies the target’s defense to the attack value at this stage.
+TRACK_DAMAGE_HELP_METIN	Applies your combined Metin damage bonus to the current attack.
+TRACK_DAMAGE_HELP_MINIMUM	If calculated damage is below 3, the server rolls damage from 1 to 5.
+TRACK_DAMAGE_HELP_PERCENT	Applies a percentage bonus to the value reached at this stage, after any relevant resistance.
+TRACK_DAMAGE_HELP_REFINE	Attack value gained from upgrading your weapon (+0 to +9).
+TRACK_DAMAGE_HELP_RESIST	Reduces damage according to the target’s resistance to this attack type.
+TRACK_DAMAGE_HELP_RULE	This bonus or combat rule changes the current value.
+TRACK_DAMAGE_HELP_WEAPON	Damage randomly chosen from your weapon’s damage range for each hit.
+TRACK_DAMAGE_INPUT	Damage entering hit resolution
+TRACK_DAMAGE_MARRIAGE	Marriage combat bonus
+TRACK_DAMAGE_METIN_BONUS	Total bonus against Metin
+TRACK_DAMAGE_METIN_CAP	Metin damage cap
+TRACK_DAMAGE_MINIMUM	Minimum damage rule
+TRACK_DAMAGE_NORMAL_HIT	Average damage
+TRACK_DAMAGE_PARTY	Party attack bonus
+TRACK_DAMAGE_PAUSE	Freeze
+TRACK_DAMAGE_PAUSED	Display frozen. Resume to capture new hits.
+TRACK_DAMAGE_PENETRATE_HIT	Piercing hit
+TRACK_DAMAGE_REFINE	Weapon refinement
+TRACK_DAMAGE_RESUME	Resume
+TRACK_DAMAGE_RULES	Additional combat adjustment
+TRACK_DAMAGE_SERVER_RATE	Server damage rate
+TRACK_DAMAGE_SKILL_BONUS	Skill damage bonus
+TRACK_DAMAGE_SKILL_FORMULA	Skill formula result
+TRACK_DAMAGE_STEP	Calculation order
+TRACK_DAMAGE_TOTAL	Total Damage: %s
+TRACK_DAMAGE_WAITING	Attack this target to see a real hit.
+TRACK_DAMAGE_WEAPON	Weapon damage roll
+TRACK_DAMAGE_WEAPON_RESIST	Weapon resistance and penetration

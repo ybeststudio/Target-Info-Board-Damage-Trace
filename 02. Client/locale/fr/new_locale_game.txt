@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Force contre les animaux
+TARGET_INFO_BONUS_BOSS	Force contre les boss
+TARGET_INFO_BONUS_DESERT	Force contre les monstres du désert
+TARGET_INFO_BONUS_DEVIL	Force contre les démons
+TARGET_INFO_BONUS_FIRE	Force contre le feu
+TARGET_INFO_BONUS_HUMAN	Force contre les demi-humains
+TARGET_INFO_BONUS_ICE	Force contre la glace
+TARGET_INFO_BONUS_INSECT	Force contre les insectes
+TARGET_INFO_BONUS_MILGYO	Force contre les mystiques
+TARGET_INFO_BONUS_MONSTER	Force contre les monstres
+TARGET_INFO_BONUS_ORC	Force contre les orcs
+TARGET_INFO_BONUS_TREE	Force contre les arbres
+TARGET_INFO_BONUS_UNDEAD	Force contre les morts-vivants
+TRACK_DAMAGE_ACCURACY	Précision et esquive de la cible
+TRACK_DAMAGE_AFTER	Après
+TRACK_DAMAGE_ATTACK	Valeur d’attaque
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Multiplicateur de dégâts de l’attaquant
+TRACK_DAMAGE_ATTACK_PERCENT	Pourcentages d’attaque combinés
+TRACK_DAMAGE_BEFORE	Avant
+TRACK_DAMAGE_BONUS_CZ	Force contre les monstres du Zodiaque
+TRACK_DAMAGE_BONUS_PVP	Force contre les joueurs
+TRACK_DAMAGE_CHANGE	Variation
+TRACK_DAMAGE_CRITICAL	Coup critique
+TRACK_DAMAGE_DEFENSE	Défense de la cible
+TRACK_DAMAGE_DISTANCE	Ajustement de distance
+TRACK_DAMAGE_ELEMENT	Bonus élémentaires combinés
+TRACK_DAMAGE_HELP_ACCURACY	Ton coup touche, mais il peut perdre une partie de sa puissance à cette étape.
+TRACK_DAMAGE_HELP_ATTACK	Valeur d’attaque de départ utilisée pour ce coup.
+TRACK_DAMAGE_HELP_CAP	Limite ce coup aux dégâts maximums autorisés pour cette cible ou ce donjon.
+TRACK_DAMAGE_HELP_CRITICAL	Dégâts supplémentaires d’un coup critique, appliqués à cette étape du calcul.
+TRACK_DAMAGE_HELP_DEFENSE	Applique la défense de la cible à la valeur d’attaque de cette étape.
+TRACK_DAMAGE_HELP_METIN	Applique ton bonus Metin cumulé à l’attaque actuelle.
+TRACK_DAMAGE_HELP_MINIMUM	Si les dégâts calculés sont inférieurs à 3, le serveur tire une valeur entre 1 et 5.
+TRACK_DAMAGE_HELP_PERCENT	Applique un bonus en pourcentage à la valeur atteinte ici, après prise en compte des résistances concernées.
+TRACK_DAMAGE_HELP_REFINE	Valeur d’attaque apportée par l’amélioration de ton arme (+0 à +9).
+TRACK_DAMAGE_HELP_RESIST	Réduit les dégâts selon la résistance de la cible à ce type d’attaque.
+TRACK_DAMAGE_HELP_RULE	Ce bonus ou cette règle de combat modifie la valeur actuelle.
+TRACK_DAMAGE_HELP_WEAPON	Dégâts tirés au hasard dans la plage de dégâts de ton arme à chaque coup.
+TRACK_DAMAGE_INPUT	Dégâts avant résolution du coup
+TRACK_DAMAGE_MARRIAGE	Bonus de combat du mariage
+TRACK_DAMAGE_METIN_BONUS	Bonus total contre les Metin
+TRACK_DAMAGE_METIN_CAP	Plafond de dégâts de la Metin
+TRACK_DAMAGE_MINIMUM	Règle de dégâts minimums
+TRACK_DAMAGE_NORMAL_HIT	Dégâts moyens
+TRACK_DAMAGE_PARTY	Bonus d’attaque du groupe
+TRACK_DAMAGE_PAUSE	Figer
+TRACK_DAMAGE_PAUSED	Affichage figé. Reprenez pour relever de nouveaux coups.
+TRACK_DAMAGE_PENETRATE_HIT	Coup perçant
+TRACK_DAMAGE_REFINE	Amélioration de l’arme
+TRACK_DAMAGE_RESUME	Reprendre
+TRACK_DAMAGE_RULES	Ajustement de combat supplémentaire
+TRACK_DAMAGE_SERVER_RATE	Taux de dégâts du serveur
+TRACK_DAMAGE_SKILL_BONUS	Bonus de dégâts de compétence
+TRACK_DAMAGE_SKILL_FORMULA	Résultat de la formule de compétence
+TRACK_DAMAGE_STEP	Ordre du calcul
+TRACK_DAMAGE_TOTAL	Dégâts totaux : %s
+TRACK_DAMAGE_WAITING	Attaquez cette cible pour voir un vrai coup.
+TRACK_DAMAGE_WEAPON	Dégâts tirés pour l’arme
+TRACK_DAMAGE_WEAPON_RESIST	Résistance d’arme et pénétration

@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Silný proti zvíøatùm
+TARGET_INFO_BONUS_BOSS	Silný proti bossùm
+TARGET_INFO_BONUS_DESERT	Silný proti pouštním pøíšerám
+TARGET_INFO_BONUS_DEVIL	Silný proti ïáblùm
+TARGET_INFO_BONUS_FIRE	Silný proti ohni
+TARGET_INFO_BONUS_HUMAN	Silný proti pololidem
+TARGET_INFO_BONUS_ICE	Silný proti ledu
+TARGET_INFO_BONUS_INSECT	Silný proti hmyzu
+TARGET_INFO_BONUS_MILGYO	Silný proti mystikùm
+TARGET_INFO_BONUS_MONSTER	Silný proti pøíšerám
+TARGET_INFO_BONUS_ORC	Silný proti orkùm
+TARGET_INFO_BONUS_TREE	Silný proti stromùm
+TARGET_INFO_BONUS_UNDEAD	Silný proti nemrtvým
+TRACK_DAMAGE_ACCURACY	Pøesnost a úhyb cíle
+TRACK_DAMAGE_AFTER	Po
+TRACK_DAMAGE_ATTACK	Hodnota útoku
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Násobitel poškození útoèníka
+TRACK_DAMAGE_ATTACK_PERCENT	Souèet procent útoku
+TRACK_DAMAGE_BEFORE	Pøed
+TRACK_DAMAGE_BONUS_CZ	Silný proti pøíšerám zvìrokruhu
+TRACK_DAMAGE_BONUS_PVP	Silný proti hráèùm
+TRACK_DAMAGE_CHANGE	Zmìna
+TRACK_DAMAGE_CRITICAL	Kritický zásah
+TRACK_DAMAGE_DEFENSE	Obrana cíle
+TRACK_DAMAGE_DISTANCE	Úprava podle vzdálenosti
+TRACK_DAMAGE_ELEMENT	Spojené živelné bonusy
+TRACK_DAMAGE_HELP_ACCURACY	Tvùj zásah dopadne, ale v této fázi mùže ztratit èást síly.
+TRACK_DAMAGE_HELP_ATTACK	Výchozí hodnota útoku použitá pro tento zásah.
+TRACK_DAMAGE_HELP_CAP	Omezuje zásah na maximální povolené poškození tohoto cíle nebo dungeonu.
+TRACK_DAMAGE_HELP_CRITICAL	Dodateèné poškození kritického zásahu použité v této fázi výpoètu.
+TRACK_DAMAGE_HELP_DEFENSE	Použije obranu cíle na hodnotu útoku v této fázi.
+TRACK_DAMAGE_HELP_METIN	Použije souèet bonusù proti Metinùm na aktuální útok.
+TRACK_DAMAGE_HELP_MINIMUM	Pokud je vypoètené poškození menší než 3, server náhodnì zvolí poškození od 1 do 5.
+TRACK_DAMAGE_HELP_PERCENT	Použije procentní bonus na hodnotu této fáze po zohlednìní pøíslušné odolnosti.
+TRACK_DAMAGE_HELP_REFINE	Hodnota útoku získaná vylepšením zbranì (+0 až +9).
+TRACK_DAMAGE_HELP_RESIST	Snižuje poškození podle odolnosti cíle vùèi tomuto typu útoku.
+TRACK_DAMAGE_HELP_RULE	Tento bonus nebo bojové pravidlo mìní aktuální hodnotu.
+TRACK_DAMAGE_HELP_WEAPON	Poškození náhodnì vybrané z rozsahu poškození zbranì pøi každém zásahu.
+TRACK_DAMAGE_INPUT	Poškození pøed vyhodnocením zásahu
+TRACK_DAMAGE_MARRIAGE	Manželský bojový bonus
+TRACK_DAMAGE_METIN_BONUS	Celkový bonus proti Metinùm
+TRACK_DAMAGE_METIN_CAP	Limit poškození Metinu
+TRACK_DAMAGE_MINIMUM	Pravidlo minimálního poškození
+TRACK_DAMAGE_NORMAL_HIT	Prùmìrné poškození
+TRACK_DAMAGE_PARTY	Bonus útoku skupiny
+TRACK_DAMAGE_PAUSE	Pozastavit
+TRACK_DAMAGE_PAUSED	Zobrazení pozastaveno. Pokraèujte pro nové zásahy.
+TRACK_DAMAGE_PENETRATE_HIT	Prùrazný zásah
+TRACK_DAMAGE_REFINE	Vylepšení zbranì
+TRACK_DAMAGE_RESUME	Pokraèovat
+TRACK_DAMAGE_RULES	Další bojová úprava
+TRACK_DAMAGE_SERVER_RATE	Míra poškození serveru
+TRACK_DAMAGE_SKILL_BONUS	Bonus poškození dovedností
+TRACK_DAMAGE_SKILL_FORMULA	Výsledek vzorce dovednosti
+TRACK_DAMAGE_STEP	Poøadí výpoètu
+TRACK_DAMAGE_TOTAL	Celkové poškození: %s
+TRACK_DAMAGE_WAITING	Zaútoète na tento cíl pro zobrazení skuteèného zásahu.
+TRACK_DAMAGE_WEAPON	Náhodné poškození zbranì
+TRACK_DAMAGE_WEAPON_RESIST	Odolnost vùèi zbrani a její prùraz

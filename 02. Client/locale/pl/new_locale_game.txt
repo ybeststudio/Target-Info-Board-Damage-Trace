@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Si³a przeciw zwierzêtom
+TARGET_INFO_BONUS_BOSS	Si³a przeciw bossom
+TARGET_INFO_BONUS_DESERT	Si³a przeciw potworom pustyni
+TARGET_INFO_BONUS_DEVIL	Si³a przeciw diab³om
+TARGET_INFO_BONUS_FIRE	Si³a przeciw ogniowi
+TARGET_INFO_BONUS_HUMAN	Si³a przeciw pó³ludziom
+TARGET_INFO_BONUS_ICE	Si³a przeciw lodowi
+TARGET_INFO_BONUS_INSECT	Si³a przeciw owadom
+TARGET_INFO_BONUS_MILGYO	Si³a przeciw mistykom
+TARGET_INFO_BONUS_MONSTER	Si³a przeciw potworom
+TARGET_INFO_BONUS_ORC	Si³a przeciw orkom
+TARGET_INFO_BONUS_TREE	Si³a przeciw drzewom
+TARGET_INFO_BONUS_UNDEAD	Si³a przeciw nieumar³ym
+TRACK_DAMAGE_ACCURACY	Celnoœæ i unik celu
+TRACK_DAMAGE_AFTER	Po
+TRACK_DAMAGE_ATTACK	Wartoœæ ataku
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Mno¿nik obra¿eñ atakuj¹cego
+TRACK_DAMAGE_ATTACK_PERCENT	Po³¹czone procenty ataku
+TRACK_DAMAGE_BEFORE	Przed
+TRACK_DAMAGE_BONUS_CZ	Si³a przeciw potworom Zodiaku
+TRACK_DAMAGE_BONUS_PVP	Si³a przeciw graczom
+TRACK_DAMAGE_CHANGE	Zmiana
+TRACK_DAMAGE_CRITICAL	Trafienie krytyczne
+TRACK_DAMAGE_DEFENSE	Obrona celu
+TRACK_DAMAGE_DISTANCE	Modyfikator odleg³oœci
+TRACK_DAMAGE_ELEMENT	Po³¹czone bonusy ¿ywio³ów
+TRACK_DAMAGE_HELP_ACCURACY	Twój cios trafia, ale na tym etapie mo¿e straciæ czêœæ si³y.
+TRACK_DAMAGE_HELP_ATTACK	Pocz¹tkowa wartoœæ ataku u¿yta dla tego trafienia.
+TRACK_DAMAGE_HELP_CAP	Ogranicza trafienie do maksymalnych obra¿eñ dozwolonych dla tego celu lub lochu.
+TRACK_DAMAGE_HELP_CRITICAL	Dodatkowe obra¿enia trafienia krytycznego, stosowane na tym etapie obliczeñ.
+TRACK_DAMAGE_HELP_DEFENSE	Stosuje obronê celu do wartoœci ataku na tym etapie.
+TRACK_DAMAGE_HELP_METIN	Stosuje ³¹czny bonus przeciw Metinom do bie¿¹cego ataku.
+TRACK_DAMAGE_HELP_MINIMUM	Jeœli obliczone obra¿enia s¹ mniejsze ni¿ 3, serwer losuje obra¿enia od 1 do 5.
+TRACK_DAMAGE_HELP_PERCENT	Stosuje procentowy bonus do wartoœci na tym etapie, po uwzglêdnieniu odpowiedniej odpornoœci.
+TRACK_DAMAGE_HELP_REFINE	Wartoœæ ataku uzyskana dziêki ulepszeniu broni (od +0 do +9).
+TRACK_DAMAGE_HELP_RESIST	Zmniejsza obra¿enia wed³ug odpornoœci celu na ten rodzaj ataku.
+TRACK_DAMAGE_HELP_RULE	Ten bonus lub zasada walki zmienia bie¿¹c¹ wartoœæ.
+TRACK_DAMAGE_HELP_WEAPON	Obra¿enia losowane z zakresu obra¿eñ broni przy ka¿dym trafieniu.
+TRACK_DAMAGE_INPUT	Obra¿enia przed rozstrzygniêciem trafienia
+TRACK_DAMAGE_MARRIAGE	Bonus walki ma³¿eñstwa
+TRACK_DAMAGE_METIN_BONUS	£¹czny bonus przeciw Metinom
+TRACK_DAMAGE_METIN_CAP	Limit obra¿eñ Metina
+TRACK_DAMAGE_MINIMUM	Zasada minimalnych obra¿eñ
+TRACK_DAMAGE_NORMAL_HIT	Œrednie obra¿enia
+TRACK_DAMAGE_PARTY	Bonus ataku grupy
+TRACK_DAMAGE_PAUSE	Zatrzymaj
+TRACK_DAMAGE_PAUSED	Widok zatrzymany. Wznów, aby rejestrowaæ nowe trafienia.
+TRACK_DAMAGE_PENETRATE_HIT	Cios przeszywaj¹cy
+TRACK_DAMAGE_REFINE	Ulepszenie broni
+TRACK_DAMAGE_RESUME	Wznów
+TRACK_DAMAGE_RULES	Dodatkowy modyfikator walki
+TRACK_DAMAGE_SERVER_RATE	Wspó³czynnik obra¿eñ serwera
+TRACK_DAMAGE_SKILL_BONUS	Bonus obra¿eñ umiejêtnoœci
+TRACK_DAMAGE_SKILL_FORMULA	Wynik wzoru umiejêtnoœci
+TRACK_DAMAGE_STEP	Kolejnoœæ obliczeñ
+TRACK_DAMAGE_TOTAL	£¹czne obra¿enia: %s
+TRACK_DAMAGE_WAITING	Zaatakuj ten cel, aby zobaczyæ rzeczywiste trafienie.
+TRACK_DAMAGE_WEAPON	Wylosowane obra¿enia broni
+TRACK_DAMAGE_WEAPON_RESIST	Odpornoœæ na broñ i jej przebicie

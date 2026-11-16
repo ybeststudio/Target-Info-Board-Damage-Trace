@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Forte contro gli Animali
+TARGET_INFO_BONUS_BOSS	Forte contro i Boss
+TARGET_INFO_BONUS_DESERT	Forte contro i mostri del deserto
+TARGET_INFO_BONUS_DEVIL	Forte contro i Demoni
+TARGET_INFO_BONUS_FIRE	Forte contro il fuoco
+TARGET_INFO_BONUS_HUMAN	Forte contro i Semiumani
+TARGET_INFO_BONUS_ICE	Forte contro il ghiaccio
+TARGET_INFO_BONUS_INSECT	Forte contro gli insetti
+TARGET_INFO_BONUS_MILGYO	Forte contro i Mistici
+TARGET_INFO_BONUS_MONSTER	Forte contro i mostri
+TARGET_INFO_BONUS_ORC	Forte contro gli Orchi
+TARGET_INFO_BONUS_TREE	Forte contro gli alberi
+TARGET_INFO_BONUS_UNDEAD	Forte contro i Non morti
+TRACK_DAMAGE_ACCURACY	Precisione ed evasione del bersaglio
+TRACK_DAMAGE_AFTER	Dopo
+TRACK_DAMAGE_ATTACK	Valore d’attacco
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Moltiplicatore dei danni dell’attaccante
+TRACK_DAMAGE_ATTACK_PERCENT	Percentuali d’attacco combinate
+TRACK_DAMAGE_BEFORE	Prima
+TRACK_DAMAGE_BONUS_CZ	Forte contro i mostri dello Zodiaco
+TRACK_DAMAGE_BONUS_PVP	Forte contro i giocatori
+TRACK_DAMAGE_CHANGE	Variazione
+TRACK_DAMAGE_CRITICAL	Colpo critico
+TRACK_DAMAGE_DEFENSE	Difesa del bersaglio
+TRACK_DAMAGE_DISTANCE	Modifica della distanza
+TRACK_DAMAGE_ELEMENT	Bonus elementali combinati
+TRACK_DAMAGE_HELP_ACCURACY	Il tuo colpo va a segno, ma può perdere parte della potenza in questa fase.
+TRACK_DAMAGE_HELP_ATTACK	Valore di attacco iniziale usato per questo colpo.
+TRACK_DAMAGE_HELP_CAP	Limita il colpo ai danni massimi consentiti per questo bersaglio o sotterraneo.
+TRACK_DAMAGE_HELP_CRITICAL	Danni aggiuntivi di un colpo critico, applicati in questa fase del calcolo.
+TRACK_DAMAGE_HELP_DEFENSE	Applica la difesa del bersaglio al valore di attacco di questa fase.
+TRACK_DAMAGE_HELP_METIN	Applica il bonus totale contro i Metin all’attacco attuale.
+TRACK_DAMAGE_HELP_MINIMUM	Se i danni calcolati sono inferiori a 3, il server estrae un valore da 1 a 5.
+TRACK_DAMAGE_HELP_PERCENT	Applica un bonus percentuale al valore raggiunto, tenendo conto delle resistenze pertinenti.
+TRACK_DAMAGE_HELP_REFINE	Valore di attacco ottenuto migliorando la tua arma (da +0 a +9).
+TRACK_DAMAGE_HELP_RESIST	Riduce i danni in base alla resistenza del bersaglio a questo tipo di attacco.
+TRACK_DAMAGE_HELP_RULE	Questo bonus o regola di combattimento modifica il valore attuale.
+TRACK_DAMAGE_HELP_WEAPON	Danni scelti casualmente nell’intervallo della tua arma per ogni colpo.
+TRACK_DAMAGE_INPUT	Danni prima della risoluzione del colpo
+TRACK_DAMAGE_MARRIAGE	Bonus di combattimento matrimoniale
+TRACK_DAMAGE_METIN_BONUS	Bonus totale contro i Metin
+TRACK_DAMAGE_METIN_CAP	Limite dei danni del Metin
+TRACK_DAMAGE_MINIMUM	Regola del danno minimo
+TRACK_DAMAGE_NORMAL_HIT	Danno medio
+TRACK_DAMAGE_PARTY	Bonus d’attacco del gruppo
+TRACK_DAMAGE_PAUSE	Blocca
+TRACK_DAMAGE_PAUSED	Visualizzazione bloccata. Riprendi per registrare nuovi colpi.
+TRACK_DAMAGE_PENETRATE_HIT	Colpo penetrante
+TRACK_DAMAGE_REFINE	Miglioramento dell’arma
+TRACK_DAMAGE_RESUME	Riprendi
+TRACK_DAMAGE_RULES	Modifica di combattimento aggiuntiva
+TRACK_DAMAGE_SERVER_RATE	Tasso di danno del server
+TRACK_DAMAGE_SKILL_BONUS	Bonus ai danni delle abilità
+TRACK_DAMAGE_SKILL_FORMULA	Risultato della formula dell’abilità
+TRACK_DAMAGE_STEP	Ordine del calcolo
+TRACK_DAMAGE_TOTAL	Danno totale: %s
+TRACK_DAMAGE_WAITING	Attacca questo bersaglio per vedere un colpo reale.
+TRACK_DAMAGE_WEAPON	Danno estratto dell’arma
+TRACK_DAMAGE_WEAPON_RESIST	Resistenza all’arma e penetrazione

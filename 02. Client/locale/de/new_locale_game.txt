@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	Stärke gegen Tiere
+TARGET_INFO_BONUS_BOSS	Stärke gegen Bosse
+TARGET_INFO_BONUS_DESERT	Stärke gegen Wüstenmonster
+TARGET_INFO_BONUS_DEVIL	Stärke gegen Teufel
+TARGET_INFO_BONUS_FIRE	Stärke gegen Feuer
+TARGET_INFO_BONUS_HUMAN	Stärke gegen Halbmenschen
+TARGET_INFO_BONUS_ICE	Stärke gegen Eis
+TARGET_INFO_BONUS_INSECT	Stärke gegen Insekten
+TARGET_INFO_BONUS_MILGYO	Stärke gegen Mystiker
+TARGET_INFO_BONUS_MONSTER	Stärke gegen Monster
+TARGET_INFO_BONUS_ORC	Stärke gegen Orks
+TARGET_INFO_BONUS_TREE	Stärke gegen Bäume
+TARGET_INFO_BONUS_UNDEAD	Stärke gegen Untote
+TRACK_DAMAGE_ACCURACY	Trefferwertung und Ausweichen des Ziels
+TRACK_DAMAGE_AFTER	Nachher
+TRACK_DAMAGE_ATTACK	Angriffswert
+TRACK_DAMAGE_ATTACK_MULTIPLIER	Schadensmultiplikator des Angreifers
+TRACK_DAMAGE_ATTACK_PERCENT	Kombinierte Angriffsprozente
+TRACK_DAMAGE_BEFORE	Vorher
+TRACK_DAMAGE_BONUS_CZ	Stärke gegen Tierkreis-Monster
+TRACK_DAMAGE_BONUS_PVP	Stärke gegen Spieler
+TRACK_DAMAGE_CHANGE	Änderung
+TRACK_DAMAGE_CRITICAL	Kritischer Treffer
+TRACK_DAMAGE_DEFENSE	Verteidigung des Ziels
+TRACK_DAMAGE_DISTANCE	Entfernungsanpassung
+TRACK_DAMAGE_ELEMENT	Kombinierte Elementarboni
+TRACK_DAMAGE_HELP_ACCURACY	Dein Treffer trifft, kann in diesem Schritt aber etwas Kraft verlieren.
+TRACK_DAMAGE_HELP_ATTACK	Ausgangsangriffswert für diesen Treffer.
+TRACK_DAMAGE_HELP_CAP	Begrenzt diesen Treffer auf den für dieses Ziel oder diesen Dungeon erlaubten Höchstschaden.
+TRACK_DAMAGE_HELP_CRITICAL	Zusätzlicher Schaden eines kritischen Treffers in diesem Rechenschritt.
+TRACK_DAMAGE_HELP_DEFENSE	Wendet die Verteidigung des Ziels auf den Angriffswert dieses Schritts an.
+TRACK_DAMAGE_HELP_METIN	Wendet deinen gesamten Metin-Schadensbonus auf den aktuellen Angriff an.
+TRACK_DAMAGE_HELP_MINIMUM	Liegt der berechnete Schaden unter 3, würfelt der Server einen Schaden von 1 bis 5.
+TRACK_DAMAGE_HELP_PERCENT	Wendet einen prozentualen Bonus auf den Wert dieses Schritts an, unter Berücksichtigung relevanter Resistenzen.
+TRACK_DAMAGE_HELP_REFINE	Angriffswert durch die Verbesserung deiner Waffe (+0 bis +9).
+TRACK_DAMAGE_HELP_RESIST	Verringert den Schaden entsprechend der Resistenz des Ziels gegen diese Angriffsart.
+TRACK_DAMAGE_HELP_RULE	Dieser Bonus oder diese Kampfregel verändert den aktuellen Wert.
+TRACK_DAMAGE_HELP_WEAPON	Bei jedem Treffer zufällig aus dem Schadensbereich deiner Waffe gewählter Schaden.
+TRACK_DAMAGE_INPUT	Schaden vor der Trefferauswertung
+TRACK_DAMAGE_MARRIAGE	Ehe-Kampfbonus
+TRACK_DAMAGE_METIN_BONUS	Gesamtbonus gegen Metins
+TRACK_DAMAGE_METIN_CAP	Metin-Schadensgrenze
+TRACK_DAMAGE_MINIMUM	Mindestschadensregel
+TRACK_DAMAGE_NORMAL_HIT	Durchschnittsschaden
+TRACK_DAMAGE_PARTY	Gruppenangriffsbonus
+TRACK_DAMAGE_PAUSE	Einfrieren
+TRACK_DAMAGE_PAUSED	Anzeige eingefroren. Zum Erfassen neuer Treffer fortsetzen.
+TRACK_DAMAGE_PENETRATE_HIT	Durchbohrender Treffer
+TRACK_DAMAGE_REFINE	Waffenverbesserung
+TRACK_DAMAGE_RESUME	Fortsetzen
+TRACK_DAMAGE_RULES	Weitere Kampfanpassung
+TRACK_DAMAGE_SERVER_RATE	Schadensrate des Servers
+TRACK_DAMAGE_SKILL_BONUS	Fertigkeitsschadensbonus
+TRACK_DAMAGE_SKILL_FORMULA	Ergebnis der Fertigkeitsformel
+TRACK_DAMAGE_STEP	Berechnungsreihenfolge
+TRACK_DAMAGE_TOTAL	Gesamtschaden: %s
+TRACK_DAMAGE_WAITING	Dieses Ziel angreifen, um einen echten Treffer zu sehen.
+TRACK_DAMAGE_WEAPON	Ausgewürfelter Waffenschaden
+TRACK_DAMAGE_WEAPON_RESIST	Waffenwiderstand und Durchdringung

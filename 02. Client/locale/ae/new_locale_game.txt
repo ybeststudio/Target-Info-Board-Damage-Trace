@@ -1,0 +1,59 @@
+TARGET_INFO_BONUS_ANIMAL	ёжн ÷ѕ «бЌнж«д« 
+TARGET_INFO_BONUS_BOSS	ёжн ÷ѕ «б“Џг«Ѕ
+TARGET_INFO_BONUS_DESERT	ёжн ÷ѕ жЌж‘ «б’Ќ—«Ѕ
+TARGET_INFO_BONUS_DEVIL	ёжн ÷ѕ «б‘н«Ўнд
+TARGET_INFO_BONUS_FIRE	ёжн ÷ѕ «бд«—
+TARGET_INFO_BONUS_HUMAN	ёжн ÷ѕ √д’«Ё «б»‘—
+TARGET_INFO_BONUS_ICE	ёжн ÷ѕ «бћбнѕ
+TARGET_INFO_BONUS_INSECT	ёжн ÷ѕ «бЌ‘—« 
+TARGET_INFO_BONUS_MILGYO	ёжн ÷ѕ «бџ«г÷нд
+TARGET_INFO_BONUS_MONSTER	ёжн ÷ѕ «бжЌж‘
+TARGET_INFO_BONUS_ORC	ёжн ÷ѕ «б√ж—я
+TARGET_INFO_BONUS_TREE	ёжн ÷ѕ «б√‘ћ«—
+TARGET_INFO_BONUS_UNDEAD	ёжн ÷ѕ «б√гж« 
+TRACK_DAMAGE_ACCURACY	«бѕё… ж Ё«ѕн «беѕЁ
+TRACK_DAMAGE_AFTER	»Џѕ
+TRACK_DAMAGE_ATTACK	ёнг… «бећжг
+TRACK_DAMAGE_ATTACK_MULTIPLIER	г÷«ЏЁ ÷—— «бге«ћг
+TRACK_DAMAGE_ATTACK_PERCENT	д”» «бећжг «бгћгЏ…
+TRACK_DAMAGE_BEFORE	ё»б
+TRACK_DAMAGE_BONUS_CZ	ёжн ÷ѕ жЌж‘ «б√»—«ћ
+TRACK_DAMAGE_BONUS_PVP	ёжн ÷ѕ «бб«Џ»нд
+TRACK_DAMAGE_CHANGE	«б џнн—
+TRACK_DAMAGE_CRITICAL	÷—»… Ќ—ћ…
+TRACK_DAMAGE_DEFENSE	ѕЁ«Џ «беѕЁ
+TRACK_DAMAGE_DISTANCE	 Џѕнб «бг”«Ё…
+TRACK_DAMAGE_ELEMENT	гя«Ё¬  «бЏд«’— «бгћгЏ…
+TRACK_DAMAGE_HELP_ACCURACY	 ’н» ÷—» я «беѕЁ° бяде« ёѕ  Ёёѕ »Џ÷ ёж е« Ён е–е «бг—Ќб….
+TRACK_DAMAGE_HELP_ATTACK	ёнг… «бећжг «б√жбн… «бг” ќѕг… бе–е «б÷—»….
+TRACK_DAMAGE_HELP_CAP	нЌѕш е–е «б÷—»… »√ё’м ÷—— г”гжЌ бе–« «беѕЁ √ж «б“д“«д….
+TRACK_DAMAGE_HELP_CRITICAL	÷—— ≈÷«Ён гд ÷—»… Ќ—ћ…° нхЎ»шё Ён е–е «бг—Ќб… гд «бЌ”«».
+TRACK_DAMAGE_HELP_DEFENSE	нЎ»шё ѕЁ«Џ «беѕЁ Џбм ёнг… «бећжг Ён е–е «бг—Ќб….
+TRACK_DAMAGE_HELP_METIN	нЎ»шё гћгжЏ гя«Ё¬  «б÷—— ÷ѕ «бг« нд Џбм «бећжг «бЌ«бн.
+TRACK_DAMAGE_HELP_MINIMUM	≈–« я«д «б÷—— «бгЌ”ж» √ёб гд 3° нќ «— «бќ«ѕг ÷——«р Џ‘ж«∆н«р »нд 1 ж5.
+TRACK_DAMAGE_HELP_PERCENT	нЎ»шё гя«Ё√… д”»н… Џбм «бёнг… «бЌ«бн… »Џѕ «Ќ ”«» «бгё«жг… «бгЏдн….
+TRACK_DAMAGE_HELP_REFINE	ёнг… «бећжг «бгя ”»… гд  Ќ”нд ”б«Ќя (гд +0 ≈бм +9).
+TRACK_DAMAGE_HELP_RESIST	нёбшб «б÷—— жЁё гё«жг… «беѕЁ бе–« «бджЏ гд «бећжг.
+TRACK_DAMAGE_HELP_RULE	 Џѕшб е–е «бгя«Ё√… √ж ё«Џѕ… «бё «б «бёнг… «бЌ«бн….
+TRACK_DAMAGE_HELP_WEAPON	÷—— нхќ «— Џ‘ж«∆н«р гд дЎ«ё ÷—— ”б«Ќя бяб ÷—»….
+TRACK_DAMAGE_INPUT	«б÷—— ё»б гЏ«бћ… «б÷—»…
+TRACK_DAMAGE_MARRIAGE	гя«Ё√… ё «б «б“ж«ћ
+TRACK_DAMAGE_METIN_BONUS	≈ћг«бн «бгя«Ё√… ÷ѕ «бг« нд
+TRACK_DAMAGE_METIN_CAP	Ќѕ ÷—— «бг« нд
+TRACK_DAMAGE_MINIMUM	ё«Џѕ… «бЌѕ «б√ѕдм бб÷——
+TRACK_DAMAGE_NORMAL_HIT	г ж”Ў «б÷——
+TRACK_DAMAGE_PARTY	гя«Ё√… ећжг «бгћгжЏ…
+TRACK_DAMAGE_PAUSE	 Ћ»н 
+TRACK_DAMAGE_PAUSED	 г  Ћ»н  «бЏ—÷. «” √дЁ б ”ћнб ÷—»«  ћѕнѕ….
+TRACK_DAMAGE_PENETRATE_HIT	÷—»… ќ«—ё…
+TRACK_DAMAGE_REFINE	 Ќ”нд «б”б«Ќ
+TRACK_DAMAGE_RESUME	«” ∆д«Ё
+TRACK_DAMAGE_RULES	 Џѕнб ё «бн ≈÷«Ён
+TRACK_DAMAGE_SERVER_RATE	гЏѕб ÷—— «бќ«ѕг
+TRACK_DAMAGE_SKILL_BONUS	гя«Ё√… ÷—— «бге«—…
+TRACK_DAMAGE_SKILL_FORMULA	д нћ… гЏ«ѕб… «бге«—…
+TRACK_DAMAGE_STEP	 — н» «бЌ”«»
+TRACK_DAMAGE_TOTAL	≈ћг«бн «б÷——: %s
+TRACK_DAMAGE_WAITING	е«ћг е–« «беѕЁ б—ƒн… ÷—»… ЁЏбн….
+TRACK_DAMAGE_WEAPON	÷—— «б”б«Ќ «бЏ‘ж«∆н
+TRACK_DAMAGE_WEAPON_RESIST	гё«жг… «б”б«Ќ ж«ќ —«ёе«
